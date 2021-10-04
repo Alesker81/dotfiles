@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aleskert@yahoo.fr
+	name = Alaskar Talibov
